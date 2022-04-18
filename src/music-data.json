@@ -1,0 +1,137 @@
+[
+    {
+      "id": "0",
+      "title": "Yıldızlar",
+      "artist": "Deniz Tekin",
+      "album": "Yıldızlar",
+      "year": 2019,
+      "isSoldOut": false,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273957a7cb8acebb5db94671784"
+    },
+    {
+      "id": "1",
+      "title": "Something In The Way",
+      "artist": "Nirvana",
+      "album": "Nevermind",
+      "year": 1991,
+      "isSoldOut": true,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/tr/thumb/a/af/Nevermind_album_kapak.jpg/250px-Nevermind_album_kapak.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Yan",
+      "artist": "Şehinşah",
+      "album": "İşin Mutfaği",
+      "year": 2017,
+      "isSoldOut": false,
+      "imageUrl": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/13/ae/10/13ae1062-50c9-db61-a736-46335502433b/193483328195.jpg/600x600bf-60.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Buna Değmem",
+      "artist": "Rota",
+      "album": "Pert",
+      "year": 2020,
+      "isSoldOut": true,
+      "imageUrl": "https://i.genius.com/a41d450dc27284973bb85a9b7d11e973c97b2de3?url=https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d00001e023412e3714488c0cdd47ad7b2"
+    },
+    {
+      "id": "4",
+      "title": "Gitmeli",
+      "artist": "İndigo",
+      "album": "Mutsuz",
+      "year": 2013,
+      "isSoldOut": false,
+      "imageUrl": "https://www.turkishrap.com/wp-content/uploads/indigo_mutsuz.jpg"
+    },
+    {
+      "id": "5",
+      "title": "One",
+      "artist": "Metallica",
+      "album": "...And Justice for All",
+      "year": 1988,
+      "isSoldOut": false,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/tr/1/12/Metallica-AndJusticeForAll.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Je veux",
+      "artist": "Zaz",
+      "album": "Zaz",
+      "year": 2010,
+      "isSoldOut": true,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/tr/5/57/Zaz_%28album%29.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Hurt",
+      "artist": "Johnny Cash",
+      "album": "The Man Comes Around",
+      "year": 2002,
+      "isSoldOut": false,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/e0/AmericanIV.jpg"
+    },
+    {
+      "id": "8",
+      "title": "The Face of Vision",
+      "artist": "Şehinşah",
+      "album": "Diabolico",
+      "year": 2022,
+      "isSoldOut": true,
+      "imageUrl": "https://images.genius.com/b7ab2d6b55150b44130eda9ed032c0a8.400x400x1.png"
+    },
+    {
+      "id": "9",
+      "title": "Jonathan",
+      "artist": "İndigo",
+      "album": "Jonathan Livingston",
+      "year": 2009,
+      "isSoldOut": false,
+      "imageUrl": "https://e.snmc.io/i/600/s/079198e83b6304048e420564a99d2dec/8035074/indigo-jonathan-livingston-Cover-Art.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Mesela Yani",
+      "artist": "Kayra",
+      "album": "Mesela Yani",
+      "year": 2013,
+      "isSoldOut": true,
+      "imageUrl": "https://i.ytimg.com/vi/2Qaeoq3p10o/mqdefault.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Gangsta's Paradise",
+      "artist": "Coolio",
+      "album": "Gangsta's Paradise",
+      "year": 2011,
+      "isSoldOut": false,
+      "imageUrl": "https://electricvinylrecords.com/5315-large_default/coolio-gangsta-s-paradise-2-lp-doble-vinilo-de-color-edicion-limitada-americana.jpg"
+    },
+    {
+      "id": "12",
+      "title": "99 Luftballons",
+      "artist": "Nena",
+      "album": "Nena",
+      "year": 1983,
+      "isSoldOut": true,
+      "imageUrl": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/99/25/69/99256992-29d2-1223-c4d5-2eab574daf35/859381162407.jpg/600x600bf-60.jpg"
+    },
+    {
+      "id": "13",
+      "title": "I Wanna Rock",
+      "artist": "Twisted Sisters",
+      "album": "Stay Hungry",
+      "year": 1984,
+      "isSoldOut": false,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733469ef94acfa666fde83dec5"
+    },
+    {
+      "id": "14",
+      "title": "You and Me",
+      "artist": "Yelawolf",
+      "album": "Ghetto Cowboy",
+      "year": 2019,
+      "isSoldOut": false,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/7/79/Yelawolf_Ghetto_Cowboy_2019.jpg"
+    }
+  ]
